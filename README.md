@@ -1,1 +1,2 @@
 # Progress-management-and-resource-management-sy2
+包括实验二软件项目管理中的进度管理与资源管理的实验报告、以及两次实例的Project2010文件
